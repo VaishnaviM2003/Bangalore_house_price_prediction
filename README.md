@@ -2,8 +2,8 @@
 This project utilizes machine learning to predict house prices in Bengaluru. The code includes data cleaning, transformation, and a trained Linear Regression model. The aim is to provide insights into Bengaluru's real estate market and enable accurate house price predictions.
 
 ### Prerequisites
--Python 3.x
--Libraries: pandas, numpy, matplotlib, scikit-learn
+- Python 3.11.4
+- Libraries: pandas, numpy, matplotlib, scikit-learn
 
 ### Code Explanation
 
